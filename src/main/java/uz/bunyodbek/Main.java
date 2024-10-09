@@ -8,5 +8,8 @@ public class Main {
         System.out.println(" HEllo");
 
 
+        System.out.println(" Bugungi dars tugadi ");
+
+
     }
 }
