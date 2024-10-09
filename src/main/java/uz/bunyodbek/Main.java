@@ -11,5 +11,11 @@ public class Main {
         System.out.println(" Bugungi dars tugadi ");
 
 
+        System.out.println(" Sardor");
+        System.out.println("32121212");
+        System.out.println("asasasasas");
+        System.out.println("telegram bot");
+
+
     }
 }
